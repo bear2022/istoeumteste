@@ -37,20 +37,20 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: rgb(171, 228, 245);
+  background: rgb(48, 93, 100);
   width: 40px;
   height: 40px;
   border-radius: 50px;
   transition: all 0.4s;
+  color: #fff;
 }
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #a2cb6c;
-  color: #fff;
+  background: rgb(171, 228, 245);
+  color: rgb(48, 93, 100);
 }
 .back-to-top.active {
   visibility: visible;
@@ -386,6 +386,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .btn-get-started:hover {
   background: rgb(171, 228, 245);
+  color: rgb(48, 93, 100);
 }
 @media (min-width: 1024px) {
   #hero {
@@ -425,8 +426,8 @@ section {
   font-weight: 700;
   padding: 8px 20px;
   margin: 0;
-  background: #f3f8ec;
-  color: rgb(171, 228, 245);
+  background: rgb(171, 228, 245);
+  color: rgb(48, 93, 100);
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
@@ -458,8 +459,8 @@ section {
   font-weight: 700;
   padding: 8px 20px;
   margin: 0 0 15px 0;
-  background: #f3f8ec;
-  color: rgb(171, 228, 245);
+  background: rgb(171, 228, 245);
+  color: rgb(48, 93, 100);
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
@@ -1485,7 +1486,7 @@ section {
 }
 #footer .footer-top .social-links a:hover {
   background: rgb(171, 228, 245);
-  color: #fff;
+  color: rgb(48, 93, 100);
   text-decoration: none;
 }
 #footer .footer-bottom {
