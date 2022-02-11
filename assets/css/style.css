@@ -471,6 +471,9 @@ section {
   color: #353535;
   margin-bottom: 15px;
 }
+.box-heading p {
+  text-align: justify;
+}
 .about .icon-box {
   margin-top: 40px;
 }
