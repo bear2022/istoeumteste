@@ -1239,11 +1239,11 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: rgb(171, 228, 245);
+  color: white;
   float: left;
   width: 44px;
   height: 44px;
-  background: #f3f8ec;
+  background: rgb(48, 93, 100);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1268,7 +1268,7 @@ section {
 }
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: rgb(171, 228, 245);
-  color: #fff;
+  color: rgb(48, 93, 100);
 }
 .contact .php-email-form {
   width: 100%;
@@ -1486,6 +1486,14 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
+}
+#footer .footer-top .social-links #opensea{
+  background: url("../img/open-sea.jpg") center center no-repeat;
+  background-size: 36px 36px;
+}
+#footer .footer-top .social-links #opensea:hover{
+  background: url("../img/open-sea-hover.jpg") center center no-repeat;
+  background-size: 36px 36px;
 }
 #footer .footer-top .social-links a:hover {
   background: rgb(171, 228, 245);
