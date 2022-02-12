@@ -1,10 +1,3 @@
-/**
-* Template Name: Remember - v4.7.0
-* Template URL: https://bootstrapmade.com/remember-free-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -333,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.png") top center;
   background-size: cover;
   position: relative;
 }
@@ -518,7 +511,7 @@ section {
   font-size: 14px;
 }
 .about .video-box {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/about.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
